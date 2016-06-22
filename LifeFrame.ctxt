@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=LifeFrame()
+comment0.text=\r\n\ Creates\ a\ new\ LifeFrame\ object.\r\n
+comment1.params=e
+comment1.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment1.text=\r\n\ An\ event,\ you\ say?\ What\ shall\ we\ do?\r\n
+comment2.params=
+comment2.target=void\ startAnimation()
+comment2.text=\r\n\ Starts\ the\ animation\ timer\r\n
+comment3.params=
+comment3.target=void\ pauseAnimation()
+comment3.text=\r\n\ Stops\ the\ animation\ timer\r\n
+numComments=4
