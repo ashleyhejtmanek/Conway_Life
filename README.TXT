@@ -1,12 +1,2 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+This a Java version of Conway's Game of Life. This program recreates the Mathematician's mathematic rules for chaos in nature. Watching this program is a lot like watching Windows '98
+disc defrag program. You don't interact with it, it just goes, and goes, and goes.
