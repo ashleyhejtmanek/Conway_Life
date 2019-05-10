@@ -1,2 +1,1 @@
-This a Java version of Conway's Game of Life. This program recreates the Mathematician's mathematic rules for chaos in nature. Watching this program is a lot like watching Windows '98
-disc defrag program. You don't interact with it, it just goes, and goes, and goes.
+This a Java version of Conway's Game of Life. This program recreates the Mathematician's mathematic rules for chaos in nature. Watching this program is a lot like watching the Windows '98 disc defrag program. You don't interact with it, it just goes, and goes, and goes.
